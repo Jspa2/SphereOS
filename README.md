@@ -5,6 +5,11 @@
 ![Top language](https://img.shields.io/github/languages/top/lumatechnologies/sphereos?color=purple&label=%20&logo=csharp&style=flat-square) ![Release](https://img.shields.io/github/v/release/lumatechnologies/sphereos?style=flat-square) ![Downloads](https://img.shields.io/github/downloads/lumatechnologies/sphereos/total?style=flat-square&color=forestgreen) ![Lines of code](https://www.aschey.tech/tokei/github/lumatechnologies/sphereos?style=flat-square)
 
 SphereOS - An operating system written in C#, powered by [Cosmos](https://github.com/Cosmos).
+
+> [!WARNING]
+> This software has been discontinued and will no longer receive updates, fixes, or support. The code is provided *as is* and may not compile with current tools or meet security, compatibility, or other requirements.
+> 
+> Thank you for your continued support.
 ### Installation
 To install SphereOS in a virtual machine, follow the instructions on the [Installation Guide.](https://github.com/Project-Sphere/SphereOS/wiki/Installation)
 
@@ -17,11 +22,11 @@ The default login credentials are:
 ![Screenshot of the GUI](/Art/screenshot_10.png)
 ## Features
 - 💻 Both GUI and CLI support
-- ⚙ Advanced shell with a custom parser
+- ⚙ Advanced shell
 - 📱 Built-in apps including Notepad, Clock, Calculator, Files, Calendar, Tasks, CodeStudio (IDE), Logs, Demos, Stopwatch, Paint, and Settings
 - ✨ [RiverScript language](https://github.com/LumaTechnologies/SphereOS/wiki/RiverScript)
 - 📁 Filesystem
-- 📝 Powerful text editor
+- 📝 Text editor
 - 🔒 User management tools
 - 🛑 Shutdown and reboot commands
 - ⏳ Process management
